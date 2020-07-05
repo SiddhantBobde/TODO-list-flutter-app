@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "610910753106",
+    "firebase_url": "https://taskshelf.firebaseio.com",
+    "project_id": "taskshelf",
+    "storage_bucket": "taskshelf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610910753106:android:3362a1b6aab780135a6a8b",
+        "android_client_info": {
+          "package_name": "com.example.taskshelf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610910753106-n28hh311jt2ia2asord8cqda43gfmkkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJw0ooPjiFKR0oe8yWDqfrQMIhf0-PxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610910753106-n28hh311jt2ia2asord8cqda43gfmkkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
